@@ -1,0 +1,233 @@
+[
+    {
+        "title": "iPhone 11 Pro 64 GB",
+        "capacityMB": 65536,
+        "price": "799.99",
+        "availabilityText": "Out of Stock",
+        "isAvailable": false,
+        "color": "Green",
+        "imageUrl": "https:\/\/www.magpiehq.com\/developer-challenge\/images\/iphone-11-pro.png",
+        "shippingText": null,
+        "shippingDate": null
+    },
+    {
+        "title": "iPhone 11 64GB",
+        "capacityMB": 65536,
+        "price": "699.99",
+        "availabilityText": "In Stock at B90 4SB",
+        "isAvailable": true,
+        "color": "Black",
+        "imageUrl": "https:\/\/www.magpiehq.com\/developer-challenge\/images\/iphone-11.png",
+        "shippingText": "Unavailable for delivery",
+        "shippingDate": null
+    },
+    {
+        "title": "iPhone 11 64GB",
+        "capacityMB": 65536,
+        "price": "699.99",
+        "availabilityText": "In Stock at B90 4SB",
+        "isAvailable": true,
+        "color": "White",
+        "imageUrl": "https:\/\/www.magpiehq.com\/developer-challenge\/images\/iphone-11.png",
+        "shippingText": "Unavailable for delivery",
+        "shippingDate": null
+    },
+    {
+        "title": "iPhone 12 Pro Max 128GB",
+        "capacityMB": 131072,
+        "price": "1099.99",
+        "availabilityText": "In Stock Online",
+        "isAvailable": true,
+        "color": "Sky Blue",
+        "imageUrl": "https:\/\/www.magpiehq.com\/developer-challenge\/images\/iphone-12-pro.png",
+        "shippingText": "Delivery by 18 Mar 2024",
+        "shippingDate": "2024-03-18"
+    },
+    {
+        "title": "Samsung Galaxy S20 128GB",
+        "capacityMB": 131072,
+        "price": "849.99",
+        "availabilityText": "In Stock",
+        "isAvailable": true,
+        "color": "Grey",
+        "imageUrl": "https:\/\/www.magpiehq.com\/developer-challenge\/images\/s-20.png",
+        "shippingText": "Available on 2024-03-24",
+        "shippingDate": "2024-03-24"
+    },
+    {
+        "title": "Huawei P30 Pro 128GB",
+        "capacityMB": 131072,
+        "price": "699.99",
+        "availabilityText": "In Stock",
+        "isAvailable": true,
+        "color": "Black",
+        "imageUrl": "https:\/\/www.magpiehq.com\/developer-challenge\/images\/p-30.png",
+        "shippingText": "Free Shipping",
+        "shippingDate": null
+    },
+    {
+        "title": "Nokia 3310 100MB",
+        "capacityMB": 100,
+        "price": "99.99",
+        "availabilityText": "Out of Stock",
+        "isAvailable": false,
+        "color": "Orange",
+        "imageUrl": "https:\/\/www.magpiehq.com\/developer-challenge\/images\/nokia-3310.png",
+        "shippingText": "Delivery from 2024-04-16",
+        "shippingDate": "2024-04-16"
+    },
+    {
+        "title": "Nokia 3310 100MB",
+        "capacityMB": 100,
+        "price": "99.99",
+        "availabilityText": "Out of Stock",
+        "isAvailable": false,
+        "color": "Yellow",
+        "imageUrl": "https:\/\/www.magpiehq.com\/developer-challenge\/images\/nokia-3310.png",
+        "shippingText": "Delivery from 2024-04-16",
+        "shippingDate": "2024-04-16"
+    },
+    {
+        "title": "Nokia 3310 100MB",
+        "capacityMB": 100,
+        "price": "99.99",
+        "availabilityText": "Out of Stock",
+        "isAvailable": false,
+        "color": "Grey",
+        "imageUrl": "https:\/\/www.magpiehq.com\/developer-challenge\/images\/nokia-3310.png",
+        "shippingText": "Delivery from 2024-04-16",
+        "shippingDate": "2024-04-16"
+    },
+    {
+        "title": "Nokia 3310 100MB",
+        "capacityMB": 100,
+        "price": "99.99",
+        "availabilityText": "Out of Stock",
+        "isAvailable": false,
+        "color": "Blue",
+        "imageUrl": "https:\/\/www.magpiehq.com\/developer-challenge\/images\/nokia-3310.png",
+        "shippingText": "Delivery from 2024-04-16",
+        "shippingDate": "2024-04-16"
+    },
+    {
+        "title": "Google Pixel 5 256 GB",
+        "capacityMB": 262144,
+        "price": "749.99",
+        "availabilityText": "In Stock",
+        "isAvailable": true,
+        "color": "Black",
+        "imageUrl": "https:\/\/www.magpiehq.com\/developer-challenge\/images\/pixel-5.png",
+        "shippingText": "Delivers Sunday 17th Mar 2024",
+        "shippingDate": "2024-03-17"
+    },
+    {
+        "title": "Sony Xperia 10 32 GB",
+        "capacityMB": 32768,
+        "price": "449.99",
+        "availabilityText": "In Stock",
+        "isAvailable": true,
+        "color": "Black",
+        "imageUrl": "https:\/\/www.magpiehq.com\/developer-challenge\/images\/sony-xperia.png",
+        "shippingText": "Free Shipping",
+        "shippingDate": null
+    },
+    {
+        "title": "Samsung Galaxy Flip 128GB",
+        "capacityMB": 131072,
+        "price": "1699.99",
+        "availabilityText": "Out of Stock",
+        "isAvailable": false,
+        "color": "Slate Grey",
+        "imageUrl": "https:\/\/www.magpiehq.com\/developer-challenge\/images\/flip.png",
+        "shippingText": null,
+        "shippingDate": null
+    },
+    {
+        "title": "Samsung Galaxy S20 128GB",
+        "capacityMB": 131072,
+        "price": "849.99",
+        "availabilityText": "In Stock",
+        "isAvailable": true,
+        "color": "Grey",
+        "imageUrl": "https:\/\/www.magpiehq.com\/developer-challenge\/images\/s-20.png",
+        "shippingText": "Free Delivery 2024-03-18",
+        "shippingDate": "2024-03-18"
+    },
+    {
+        "title": "Samsung Galaxy S20 128GB",
+        "capacityMB": 131072,
+        "price": "849.99",
+        "availabilityText": "In Stock",
+        "isAvailable": true,
+        "color": "Black",
+        "imageUrl": "https:\/\/www.magpiehq.com\/developer-challenge\/images\/s-20.png",
+        "shippingText": "Free Delivery 2024-03-18",
+        "shippingDate": "2024-03-18"
+    },
+    {
+        "title": "Oppo Reno4 Pro 5G 64 GB",
+        "capacityMB": 65536,
+        "price": "749.99",
+        "availabilityText": "In Stock",
+        "isAvailable": true,
+        "color": "Blue",
+        "imageUrl": "https:\/\/www.magpiehq.com\/developer-challenge\/images\/oppo-reno.png",
+        "shippingText": "Free Delivery",
+        "shippingDate": null
+    },
+    {
+        "title": "Huawei P Smart 64GB",
+        "capacityMB": 65536,
+        "price": "399.99",
+        "availabilityText": "In Stock",
+        "isAvailable": true,
+        "color": "Black",
+        "imageUrl": "https:\/\/www.magpiehq.com\/developer-challenge\/images\/huawei-p-smart.png",
+        "shippingText": "Free Delivery tomorrow",
+        "shippingDate": "2024-03-18"
+    },
+    {
+        "title": "Google Pixel 4 64 GB",
+        "capacityMB": 65536,
+        "price": "499.99",
+        "availabilityText": "In Stock",
+        "isAvailable": true,
+        "color": "Black",
+        "imageUrl": "https:\/\/www.magpiehq.com\/developer-challenge\/images\/pixel-5.png",
+        "shippingText": "Delivers 2024-03-17",
+        "shippingDate": "2024-03-17"
+    },
+    {
+        "title": "Google Pixel 4 64 GB",
+        "capacityMB": 65536,
+        "price": "499.99",
+        "availabilityText": "In Stock",
+        "isAvailable": true,
+        "color": "White",
+        "imageUrl": "https:\/\/www.magpiehq.com\/developer-challenge\/images\/pixel-5.png",
+        "shippingText": "Delivers 2024-03-17",
+        "shippingDate": "2024-03-17"
+    },
+    {
+        "title": "LG K42 128 GB",
+        "capacityMB": 131072,
+        "price": "499.99",
+        "availabilityText": "In Stock",
+        "isAvailable": true,
+        "color": "Black",
+        "imageUrl": "https:\/\/www.magpiehq.com\/developer-challenge\/images\/lg-k42.png",
+        "shippingText": "Order within 6 hours and have it 2024-03-19",
+        "shippingDate": "2024-03-19"
+    },
+    {
+        "title": "Samsung Galaxy S20 64GB",
+        "capacityMB": 65536,
+        "price": "799.99",
+        "availabilityText": "In Stock",
+        "isAvailable": true,
+        "color": "Grey",
+        "imageUrl": "https:\/\/www.magpiehq.com\/developer-challenge\/images\/s-20.png",
+        "shippingText": "Free Delivery 2024-03-18",
+        "shippingDate": "2024-03-18"
+    }
+]
