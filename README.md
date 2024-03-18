@@ -1,6 +1,6 @@
 
 ### Notes
-* I have updated the symphony crwaler to 7.0 since I was running php8.3 rather than 7.4
+* I have updated the symphony crawler to 7.0 since I was running php8.3 rather than 7.4
 * I have used de-dupe logic at the end eliminating them only if they are identical in all aspects( I thought of dedeuping using title and color but what if the site had another link which was by a different seller so listed differently)
 * I have looped through colors to treat each color as a new item
 * Pagination is accounted for to get all the products.
