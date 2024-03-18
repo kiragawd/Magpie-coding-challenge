@@ -56,7 +56,7 @@ class Scrape
     {
         $this->products = array_merge($this->products, Product::extractProducts($crawler, $baseUrl));
     }
-
+    // Deduplicate the products array logic 
     private function deduplicateProducts(): void
     {
         $uniqueProducts = [];

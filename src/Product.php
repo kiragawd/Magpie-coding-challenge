@@ -30,7 +30,7 @@ class Product
             $availabilityText = $availabilityNode->text();
             $availability = trim(str_replace('Availability:', '', $availabilityText)); // Extract value after "Availability:"
              // Determine if the product is available
-            $isAvailable = $availability !== "Out of Stock";
+            $isAvailable = $availability !== "Out of Stock" && $availability !== null;
             $imageUrl = $node->filter('img')->attr('src');
             // Check if the image URL is absolute
             if (parse_url($imageUrl, PHP_URL_HOST)) {

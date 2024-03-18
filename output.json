@@ -40,7 +40,7 @@
         "isAvailable": true,
         "color": "Sky Blue",
         "imageUrl": "https:\/\/www.magpiehq.com\/developer-challenge\/images\/iphone-12-pro.png",
-        "shippingText": "Delivery by 2024-03-19",
+        "shippingText": "Delivery by 19 Mar 2024",
         "shippingDate": "2024-03-19"
     },
     {
@@ -51,7 +51,7 @@
         "isAvailable": true,
         "color": "Grey",
         "imageUrl": "https:\/\/www.magpiehq.com\/developer-challenge\/images\/s-20.png",
-        "shippingText": "Available on 2024-03-25",
+        "shippingText": "Available on 25 Mar 2024",
         "shippingDate": "2024-03-25"
     },
     {
@@ -73,7 +73,7 @@
         "isAvailable": false,
         "color": "Orange",
         "imageUrl": "https:\/\/www.magpiehq.com\/developer-challenge\/images\/nokia-3310.png",
-        "shippingText": "Delivery from 2024-04-17",
+        "shippingText": "Delivery from 17 Apr 2024",
         "shippingDate": "2024-04-17"
     },
     {
@@ -84,7 +84,7 @@
         "isAvailable": false,
         "color": "Yellow",
         "imageUrl": "https:\/\/www.magpiehq.com\/developer-challenge\/images\/nokia-3310.png",
-        "shippingText": "Delivery from 2024-04-17",
+        "shippingText": "Delivery from 17 Apr 2024",
         "shippingDate": "2024-04-17"
     },
     {
@@ -95,7 +95,7 @@
         "isAvailable": false,
         "color": "Grey",
         "imageUrl": "https:\/\/www.magpiehq.com\/developer-challenge\/images\/nokia-3310.png",
-        "shippingText": "Delivery from 2024-04-17",
+        "shippingText": "Delivery from 17 Apr 2024",
         "shippingDate": "2024-04-17"
     },
     {
@@ -106,7 +106,7 @@
         "isAvailable": false,
         "color": "Blue",
         "imageUrl": "https:\/\/www.magpiehq.com\/developer-challenge\/images\/nokia-3310.png",
-        "shippingText": "Delivery from 2024-04-17",
+        "shippingText": "Delivery from 17 Apr 2024",
         "shippingDate": "2024-04-17"
     },
     {
@@ -117,7 +117,7 @@
         "isAvailable": true,
         "color": "Black",
         "imageUrl": "https:\/\/www.magpiehq.com\/developer-challenge\/images\/pixel-5.png",
-        "shippingText": "Delivers Monday 18th Mar 2024",
+        "shippingText": "Delivers 18 Mar 2024",
         "shippingDate": "2024-03-18"
     },
     {
@@ -150,7 +150,7 @@
         "isAvailable": true,
         "color": "Grey",
         "imageUrl": "https:\/\/www.magpiehq.com\/developer-challenge\/images\/s-20.png",
-        "shippingText": "Free Delivery 2024-03-19",
+        "shippingText": "Free Delivery 19 Mar 2024",
         "shippingDate": "2024-03-19"
     },
     {
@@ -161,7 +161,7 @@
         "isAvailable": true,
         "color": "Black",
         "imageUrl": "https:\/\/www.magpiehq.com\/developer-challenge\/images\/s-20.png",
-        "shippingText": "Free Delivery 2024-03-19",
+        "shippingText": "Free Delivery 19 Mar 2024",
         "shippingDate": "2024-03-19"
     },
     {
@@ -194,7 +194,7 @@
         "isAvailable": true,
         "color": "Black",
         "imageUrl": "https:\/\/www.magpiehq.com\/developer-challenge\/images\/pixel-5.png",
-        "shippingText": "Delivers 2024-03-18",
+        "shippingText": "Delivers 18 Mar 2024",
         "shippingDate": "2024-03-18"
     },
     {
@@ -205,7 +205,7 @@
         "isAvailable": true,
         "color": "White",
         "imageUrl": "https:\/\/www.magpiehq.com\/developer-challenge\/images\/pixel-5.png",
-        "shippingText": "Delivers 2024-03-18",
+        "shippingText": "Delivers 18 Mar 2024",
         "shippingDate": "2024-03-18"
     },
     {
@@ -216,7 +216,7 @@
         "isAvailable": true,
         "color": "Black",
         "imageUrl": "https:\/\/www.magpiehq.com\/developer-challenge\/images\/lg-k42.png",
-        "shippingText": "Order within 6 hours and have it 20 Mar 2024",
+        "shippingText": "Order within 6 hours and have it 2024-03-20",
         "shippingDate": "2024-03-20"
     },
     {
@@ -227,7 +227,7 @@
         "isAvailable": true,
         "color": "Grey",
         "imageUrl": "https:\/\/www.magpiehq.com\/developer-challenge\/images\/s-20.png",
-        "shippingText": "Free Delivery 19 Mar 2024",
+        "shippingText": "Free Delivery 2024-03-19",
         "shippingDate": "2024-03-19"
     }
 ]
